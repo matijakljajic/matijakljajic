@@ -13,8 +13,10 @@
 <br>
 <br>
 <br>
+<br>
+<br>
+<br>
 
-<img src="https://i.giphy.com/media/B9ASSRShV2dPi/giphy.webp" width="150px" align="right"/>
 <details> 
     <summary> 
       Dabbles in?
