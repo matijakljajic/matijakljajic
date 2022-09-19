@@ -2,7 +2,8 @@
 
 # <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="25px"> Hello there.
   
-<img src="https://i.giphy.com/media/dbtDDSvWErdf2/giphy.webp" width="50%" height="50%" align="right"/>
+<img src="https://i.giphy.com/media/dbtDDSvWErdf2/giphy.webp" width=500 height=272 align="right"/>
+<br>
   
 ### Fun facts!
     
@@ -14,8 +15,8 @@
 <br>
 <br>
 <br>
-<br>
-<br>
+
+### More
 
 <details> 
     <summary> 
