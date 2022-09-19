@@ -2,7 +2,7 @@
 
 # <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="25px"> Hello there.
   
-<img src="https://i.giphy.com/media/dbtDDSvWErdf2/giphy.webp" width="60%" height="60%" align="right"/>
+<img src="https://i.giphy.com/media/dbtDDSvWErdf2/giphy.webp" width="50%" height="50%" align="right"/>
   
 ### Fun facts!
     
@@ -10,6 +10,9 @@
 - Played with an Amstrad, grew up with an XP pre-built.
 - Currently focused on learning and enjoying it to the fullest!
 
+<br>
+<br>
+<br>
 
 <img src="https://i.giphy.com/media/B9ASSRShV2dPi/giphy.webp" width="150px" align="right"/>
 <details> 
