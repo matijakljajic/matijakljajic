@@ -2,17 +2,13 @@
 
 # <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="25px"> Hello there.
   
-<img src="https://i.giphy.com/media/dbtDDSvWErdf2/giphy.webp" width="520" height="300" align="right"/>
+<img src="https://i.giphy.com/media/dbtDDSvWErdf2/giphy.webp" width="60%" height="60%" align="right"/>
   
 ### Fun facts!
     
 - Just another profile page with random projects and what-not.
 - Played with an Amstrad, grew up with an XP pre-built.
 - Currently focused on learning and enjoying it to the fullest!
-
-<br>
-<img src="https://spotify-recently-played-readme.vercel.app/api?user=31bk53tbdmlletu3fek4sj6yljgi&count=2&unique={true|1|on|yes}&width=460"/>
-<br>
 
 
 <img src="https://i.giphy.com/media/B9ASSRShV2dPi/giphy.webp" width="150px" align="right"/>
