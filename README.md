@@ -17,7 +17,7 @@
 
 ### More
 
-<details open> 
+<details> 
     <summary> 
       Dabbles in?
     </summary>
@@ -25,7 +25,7 @@
     <img src="https://img.shields.io/badge/-C%23-5C2D91"/> <img src="https://img.shields.io/badge/-SQL-003B57"/> <img src="https://img.shields.io/badge/-PL/SQL-CC2927"/> <img src="https://img.shields.io/badge/-HTML5-E34F26"/> <img src="https://img.shields.io/badge/-CSS3-1572B6"/> <img src="https://img.shields.io/badge/-JavaScript-F7DF1E"/> <img src="https://img.shields.io/badge/-PHP-777BB4"/> <img src="https://img.shields.io/badge/-GNU%20Octave-0790C0"/> <img src="https://img.shields.io/badge/-SASM-071D49"/> <img src="https://img.shields.io/badge/-Prolog-000000"/> <img src="https://img.shields.io/badge/-Haskell-5D4F85"/> <img src="https://img.shields.io/badge/-Visual%20Basic-512BD4"/>
 </details>
 
-<details open> 
+<details> 
     <summary> 
       Ocassionally uses?
     </summary>
