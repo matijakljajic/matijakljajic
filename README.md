@@ -1,22 +1,21 @@
 ---
 
-<p align="center"><img src="https://raw.githubusercontent.com/matijakljajic/matijakljajic/main/header.gif" width="100%" alt="Header">
+<img src="https://raw.githubusercontent.com/matijakljajic/matijakljajic/main/header.gif" width="100%" align="center" alt="Header">
 
 # <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="25px"> Hello there.
   
-  ---
-  
-<p align="center"><img src="https://i.giphy.com/media/dbtDDSvWErdf2/giphy.webp" width=60% height=60%/>
-<br>
-  
-  ---
+---
+
+<img src="https://i.giphy.com/media/dbtDDSvWErdf2/giphy.webp" width=25% height=25% align="right"/>
   
 ### Fun facts!
     
 - Just another profile page with random projects and what-not.
-- Using Fedora Silverblue.
-- Currently focused on learning and enjoying it to the fullest!
-
+- Mainly using Fedora Silverblue, love the open-source!
+- Always focused on learning and enjoying it to the fullest!
+- Here's my [web portfolio](https://matijakljajic.github.io/).
+    
+---
 
 ### More
 
