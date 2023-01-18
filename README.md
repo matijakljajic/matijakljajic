@@ -6,7 +6,7 @@
   
 ---
 
-<img src="https://i.giphy.com/media/dbtDDSvWErdf2/giphy.webp" width=26% height=26% align="right"/>
+<img src="https://i.giphy.com/media/dbtDDSvWErdf2/giphy.webp" width=27% height=27% align="right"/>
   
 ### Fun facts!
     
