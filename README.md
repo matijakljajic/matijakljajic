@@ -5,8 +5,6 @@
 # <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="25px"> Hello there.
   
 ---
-
-<img src="https://i.giphy.com/media/dbtDDSvWErdf2/giphy.webp" width=15% height=15% align="right"/>
   
 ### Fun facts!
 
@@ -16,6 +14,8 @@
 - Here's my [web portfolio](https://matijakljajic.github.io/).
     
 ---
+
+<img src="https://i.giphy.com/media/dbtDDSvWErdf2/giphy.webp" height=105px align="right"/>
 
 ### More
 
