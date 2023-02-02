@@ -6,10 +6,9 @@
   
 ---
 
+<img src="https://i.giphy.com/media/dbtDDSvWErdf2/giphy.webp" width=15% height=15% align="right"/>
   
 ### Fun facts!
-
-<img src="https://i.giphy.com/media/dbtDDSvWErdf2/giphy.webp" width=15% height=15% align="right"/>
 
 - Just another profile page with random projects and what-not.
 - Mainly using Fedora Silverblue, love the open-source!
