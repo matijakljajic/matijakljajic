@@ -2,9 +2,8 @@
   
 ## 🌻 Fun facts!
 
-- Just another profile page with random projects and what-not.
-- Mainly using Fedora Silverblue, love the open-source!
-- Always focused on learning and enjoying it to the fullest!
+- Just a profile page of a person who loves to learn and explore.
+- Usually distro=hopping, but stuck with Fedora Silverblue due to immutability. (:
 - Here's my [web portfolio](https://matijakljajic.github.io/).
 
 ## 🔧 More
